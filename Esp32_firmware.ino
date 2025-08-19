@@ -13,12 +13,12 @@
 #define TOP_SENSOR_PIN 22
 
 // --- WiFi and Firebase Credentials ---
-#define WIFI_SSID "FTTH-bsnl"
-#define WIFI_PASSWORD "adavichira@1"
-#define API_KEY "AIzaSyCdQfrxQojddcJtMMkFGePzlbQjBlsL7AY"
-#define DATABASE_URL "kapithan-ff7c3-default-rtdb.firebaseio.com"
-#define USER_EMAIL "andrewjos2004@gmail.com"
-#define USER_PASSWORD "andrew@1"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
+#define API_KEY ""
+#define DATABASE_URL ""
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 
 // --- Timing and Logic Constants ---
 const unsigned long MOTOR_MAX_RUN_TIME_MS = 12 * 60 * 1000UL;
